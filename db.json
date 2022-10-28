@@ -1,0 +1,100 @@
+{
+	"students": {
+		"success": true,
+		"count": 10,
+		"data": {
+			"students": [
+				{
+					"name": "Arlene McCoy",
+					"isSubscribed": true,
+					"email": "deanna.curtis@example.com",
+					"joinedAt": "2022 10 01",
+					"lastLoginAt": "2022 11 10",
+					"progress": 34,
+					"photo": "https://i.pravatar.cc/150?img=15"
+				},
+				{
+					"name": "Ronald Richards",
+					"isSubscribed": true,
+					"email": "debbie.baker@example.com",
+					"joinedAt": "2022 10 02",
+					"lastLoginAt": "2022 11 10",
+					"progress": 12,
+					"photo": "https://i.pravatar.cc/150?img=16"
+				},
+				{
+					"name": "Brooklyn Simmons",
+					"isSubscribed": false,
+					"email": "tanya.hill@example.com",
+					"joinedAt": "2022 10 03",
+					"lastLoginAt": "2022 11 10",
+					"progress": 10,
+					"photo": "https://i.pravatar.cc/150?img=17"
+				},
+				{
+					"name": "Bessie Cooper",
+					"isSubscribed": true,
+					"email": "tim.jennings@example.com",
+					"joinedAt": "2022 10 11",
+					"lastLoginAt": "2022 11 10",
+					"progress": 50,
+					"photo": "https://i.pravatar.cc/150?img=18"
+				},
+				{
+					"name": "Marvin McKinney",
+					"isSubscribed": false,
+					"email": "sara.cruz@example.com",
+					"joinedAt": "2022 10 01",
+					"lastLoginAt": "2022 11 10",
+					"progress": 10,
+					"photo": "https://i.pravatar.cc/150?img=19"
+				},
+				{
+					"name": "Jerome Bell",
+					"isSubscribed": true,
+					"email": "alma.lawson@example.com",
+					"joinedAt": "2022 09 01",
+					"lastLoginAt": "2022 11 10",
+					"progress": 76,
+					"photo": "https://i.pravatar.cc/150?img=20"
+				},
+				{
+					"name": "Esther Howard",
+					"isSubscribed": true,
+					"email": "felicia.reid@example.com",
+					"joinedAt": "2022 10 01",
+					"lastLoginAt": "2022 11 10",
+					"progress": 10,
+					"photo": "https://i.pravatar.cc/150?img=21"
+				},
+				{
+					"name": "Albert Flores",
+					"isSubscribed": false,
+					"email": "debra.holt@example.com",
+					"joinedAt": "2022 10 01",
+					"lastLoginAt": "2022 11 10",
+					"progress": 10,
+					"photo": "https://i.pravatar.cc/150?img=22"
+				},
+				{
+					"name": "Devon Lane",
+					"isSubscribed": true,
+					"email": "willie.jennings@example.com",
+					"joinedAt": "2022 05 21",
+					"lastLoginAt": "2022 11 10",
+					"progress": 35,
+					"photo": "https://i.pravatar.cc/150?img=23"
+				},
+				{
+					"name": "Theresa Webb",
+					"isSubscribed": false,
+					"email": "deanna.curtid@example.com",
+					"joinedAt": "2022 07 04",
+					"lastLoginAt": "2022 11 10",
+					"progress": 81,
+					"photo": "https://i.pravatar.cc/150?img=24"
+				}
+			]
+		}
+	}
+}
